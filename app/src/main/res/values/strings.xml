@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="author">By:Dave King-2018</string>
 </resources>
